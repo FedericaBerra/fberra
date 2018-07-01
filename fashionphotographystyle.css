@@ -13,12 +13,12 @@ body{background: black;}
 .header__logo{color:white; float:left;display: block;padding:20px;text-decoration: none;font-family: 'Space Mono', monospace; font-style: normal;font-weight: 700;}
 .header__menu{float:right;margin:0; padding:0;}
 .header__menu__item{display: inline-block; font-family: 'Space Mono', monospace;}
-.header__menu__item a{color:white;display: block;padding:20px;text-decoration: none}
+.header__menu__item a{color:white;display: block;padding:20px;text-decoration: none;  }
 .header__menu__item a:hover{background: black; color: #353535}
 .header__icon-bar{display: block;float: right;padding:20px;display: none;}
 .header__icon-bar span{display: block;height:3px; width: 30px;background: #eee; margin-bottom: 5px;}
 
-.header_menu_second{float:right; margin:35px; padding:0;}
+.header_menu_second{margin:0; padding:0;}
 .header_menu_second_item{display: inline-block; font-family: 'Space Mono', monospace;}
 .header_menu_second_item a{color: white; display:block; padding: 20px 80px; text-decoration: inherit;}
 .header_menu_second_item a:hover{background: black; color: #AA4848;}
